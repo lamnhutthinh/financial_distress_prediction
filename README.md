@@ -1,0 +1,2 @@
+# Financial distress prediction
+This is the topic I used in my graduation thesis. The firms that I used to build machine learning models are listed on Ho Chi Minh Stock Exchange (HoSE). The features used to predict financial distress ability of HoSE firms are their financial indicators, this dataset is collect from tcbs.com.vn. The financial status of HoSE firms are evaluated on cafef.vn. I used Python and Excel to collect and process the data, then the models are deployed by using Python.
